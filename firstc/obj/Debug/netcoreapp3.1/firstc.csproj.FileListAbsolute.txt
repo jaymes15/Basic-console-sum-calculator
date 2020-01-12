@@ -1,0 +1,11 @@
+C:\Users\TOMI\source\repos\firstc\firstc\bin\Debug\netcoreapp3.1\firstc.exe
+C:\Users\TOMI\source\repos\firstc\firstc\bin\Debug\netcoreapp3.1\firstc.deps.json
+C:\Users\TOMI\source\repos\firstc\firstc\bin\Debug\netcoreapp3.1\firstc.runtimeconfig.json
+C:\Users\TOMI\source\repos\firstc\firstc\bin\Debug\netcoreapp3.1\firstc.runtimeconfig.dev.json
+C:\Users\TOMI\source\repos\firstc\firstc\bin\Debug\netcoreapp3.1\firstc.dll
+C:\Users\TOMI\source\repos\firstc\firstc\bin\Debug\netcoreapp3.1\firstc.pdb
+C:\Users\TOMI\source\repos\firstc\firstc\obj\Debug\netcoreapp3.1\firstc.csprojAssemblyReference.cache
+C:\Users\TOMI\source\repos\firstc\firstc\obj\Debug\netcoreapp3.1\firstc.AssemblyInfoInputs.cache
+C:\Users\TOMI\source\repos\firstc\firstc\obj\Debug\netcoreapp3.1\firstc.AssemblyInfo.cs
+C:\Users\TOMI\source\repos\firstc\firstc\obj\Debug\netcoreapp3.1\firstc.dll
+C:\Users\TOMI\source\repos\firstc\firstc\obj\Debug\netcoreapp3.1\firstc.pdb
